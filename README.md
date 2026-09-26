@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I'm pursuing B.Tech at Vnit Nagpur<br>Computer Science And Technology<br>Always eager to learn new things.<br>What's consistent is that I'm obsessed with understanding how technology actually works-not just how it's marketed.
+🔭I recently completed my B.Tech in<br> Computer Science and Engineering<br>from VNIT Nagpur (CSE'26) <br>Always eager to learn new things.<br>What's consistent is that I'm obsessed with understanding how technology actually works-not just how it's marketed.
 
 
 ## 🌐 Socials:
